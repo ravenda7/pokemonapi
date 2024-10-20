@@ -9,7 +9,7 @@ const SearchBar = () => {
   };
 
   return (
-    <div className="flex items-center justify-center p-4">
+    <div className="flex items-center justify-center p-4 pt-0">
 
       <div className="relative flex items-center border border-gray-300 rounded-l-lg lg:w-[900px] md:w-[600px] w-80">
         <FiSearch className="absolute left-3 text-gray-400" />
